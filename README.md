@@ -62,6 +62,11 @@ Dress Up Games Market size was valued at USD 100 Million in 2023 and is expected
 ![Desktop - 6](https://github.com/user-attachments/assets/8acc5f85-ab49-4248-b2e0-3ede2e2e2661)
 
 
+# WORKFLOW 
+![Screenshot 2024-07-15 171145](https://github.com/user-attachments/assets/b21c2623-1f95-42ec-8d24-df1299c03d4a)
+
+![image](https://github.com/user-attachments/assets/1a801efd-6c17-4c87-8be9-6c2017b9c611)
+
 **🔮 Future Dreams**
 
 📱Improving User Interface
