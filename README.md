@@ -50,7 +50,7 @@ Fashion Gaming Zone!** 👾
 
 
 **💖 Join the Fashion Revolution!**
-![Desktop - 1](https://github.com/user-attachments/assets/2be68053-2dff-4147-bf75-8baefbec1c1a)
+
 ![Desktop - 2](https://github.com/user-attachments/assets/978eaf4b-3e9c-4702-a1bd-eb302d494cf0)
 ![Desktop - 3](https://github.com/user-attachments/assets/57ead8f3-10e1-4713-8a27-fbe5c60f4443)
 ![Desktop - 4 (2)](https://github.com/user-attachments/assets/43381553-3686-4769-8b24-98a830896488)
