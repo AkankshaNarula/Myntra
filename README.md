@@ -23,10 +23,6 @@
 Fashion Gaming Zone!** 👾
 
 
-### Dress Up Games Market Insights
-Dress Up Games Market size was valued at USD 100 Million in 2023 and is expected to reach USD 150 Million by the end of 2030 with a CAGR of 5.99% during the forecast period 2024-2030.
-![image](https://github.com/user-attachments/assets/c9ca91ca-1d51-4ccd-915a-da5b0b7b8410)
-
 **✨ Magical Features**
 🎭 Personalize Your Avatar
 🪞 Virtual Fitting Room
@@ -35,7 +31,7 @@ Dress Up Games Market size was valued at USD 100 Million in 2023 and is expected
 🪙 Earn Virtual Coins
 
 
-
+![image](https://github.com/user-attachments/assets/f77a847d-a4f9-42c0-a7af-5c2fc538797e)
 **💥 Impact**
 
 😊 Boost Satisfaction
@@ -67,8 +63,12 @@ Dress Up Games Market size was valued at USD 100 Million in 2023 and is expected
 
 ![image](https://github.com/user-attachments/assets/1a801efd-6c17-4c87-8be9-6c2017b9c611)
 
-![image](https://github.com/user-attachments/assets/f77a847d-a4f9-42c0-a7af-5c2fc538797e)
 
+
+
+### Dress Up Games Market Insights
+Dress Up Games Market size was valued at USD 100 Million in 2023 and is expected to reach USD 150 Million by the end of 2030 with a CAGR of 5.99% during the forecast period 2024-2030.
+![image](https://github.com/user-attachments/assets/c9ca91ca-1d51-4ccd-915a-da5b0b7b8410)
 
 **🔮 Future Dreams**
 
