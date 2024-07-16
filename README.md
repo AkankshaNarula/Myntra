@@ -40,13 +40,13 @@ Fashion Gaming Zone!** 👾
 
 **🛠️ Tech Magic**
 
-🕶️ AR/VR: Unity, ARKit
+
 🧠 AI/ML: TensorFlow, PyTorch
 🎨 3D: Blender, Maya
 🔗 Integration: RESTful APIs, GraphQL
-💻 Backend: Node.js, Python
-🖥️ Frontend: React, Angular
-☁️ Cloud: AWS, Google Cloud
+💻 Backend: Flask
+🖥️ Frontend: Flutter
+
 
 
 **💖 Join the Fashion Revolution!**
